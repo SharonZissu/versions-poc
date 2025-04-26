@@ -1,0 +1,17 @@
+{
+  "name": "@sharonzissu/date-logic",
+  "version": "1.0.0",
+  "description": "A package that returns the current date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SharonZissu/versions-poc.git"
+  },
+  "publishConfig": {
+    "@xcanchal:registry": "https://npm.pkg.github.com/sharonzissu"
+  },
+  "private": true
+}
