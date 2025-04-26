@@ -6,7 +6,7 @@ module.exports = function getDate(
 };
 
 module.exports = function getDate2(
-    locale = 'en-US',
+    locale = 'en-USa',
     options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 ) {
     return new Date().toLocaleDateString(locale, options);
