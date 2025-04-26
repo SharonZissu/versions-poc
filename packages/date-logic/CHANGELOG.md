@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.2.0](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@2.1.0...@sharonzissu/date-logic@2.2.0) (2025-04-26)
+
+
+### Features
+
+* **date-logic:** new feature ([0dcc39c](https://github.com/SharonZissu/versions-poc/commit/0dcc39c61d38d78ef9d3dff27bc9958d92d35053))
+
+
+
+
+
 # [2.1.0](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@2.0.0...@sharonzissu/date-logic@2.1.0) (2025-04-26)
 
 
