@@ -1,8 +1,6 @@
-import createPreset from 'conventional-changelog-conventionalcommits'
+const createPreset = require('conventional-changelog-conventionalcommits');
 
-createPreset({
+module.exports = createPreset({
     issuePrefixes: ['TEST-'],
     issueUrlFormat: 'https://myBugTracker.com/{{prefix}}{{id}}'
-}).then((config) => {
-    // do something with the config
-})
+});
