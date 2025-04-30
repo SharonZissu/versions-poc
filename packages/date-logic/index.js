@@ -5,9 +5,9 @@ module.exports = function getDate(
     return new Date().toLocaleDateString(locale, options);
 };
 
-module.exports = function getDate2(
+module.exports = function getDateAmazing(
     locale = 'en-USaa',
-    options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
+    optionss = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 ) {
-    return new Date().toLocaleDateString(locale, options);
+    return new Date().toLocaleDateString(locale, optionss);
 };
