@@ -8,7 +8,9 @@
   "author": "",
   "license": "ISC",
   "description": "A repository with multiple packages",
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "dependencies": {
     "lerna": "^8.2.2"
   }

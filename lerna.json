@@ -1,8 +1,5 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "version": "independent",
-  "changelogPreset": {
-    "name": "conventionalcommits",
-    "issueUrlFormat": "{{host}}/{{owner}}/{{repository}}/issues/{{id}}"
-  },
+  "changelogPreset": "conventional-changelog-conventionalcommits"
 }
