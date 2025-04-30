@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.0](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@3.1.1...@sharonzissu/date-logic@3.2.0) (2025-04-30)
+
+
+### Features
+
+* change ([TEST-777](https://myBugTracker.com/TEST-777)) ([1c4ce83](https://github.com/SharonZissu/versions-poc/commit/1c4ce8340a618653f82e32635cc48b3d584127e9))
+
+
+
 ## [3.1.1](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@3.1.0...@sharonzissu/date-logic@3.1.1) (2025-04-30)
 
 
