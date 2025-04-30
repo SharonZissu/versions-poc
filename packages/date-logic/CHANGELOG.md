@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@2.2.1...@sharonzissu/date-logic@3.0.0) (2025-04-30)
+
+
+### Features
+
+* change function name ([7e1cc85](https://github.com/SharonZissu/versions-poc/commit/7e1cc8571605cf1c8b3fe864a81570af05f9b895))
+
+
+### BREAKING CHANGES
+
+* change function arg name
+
+### Some title\n\nSome *paragraph*
+
+
+
+
+
 ## [2.2.1](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@2.2.0...@sharonzissu/date-logic@2.2.1) (2025-04-26)
 
 **Note:** Version bump only for package @sharonzissu/date-logic

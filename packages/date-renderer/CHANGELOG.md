@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.4](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-renderer@1.2.3...@sharonzissu/date-renderer@1.2.4) (2025-04-30)
+
+**Note:** Version bump only for package @sharonzissu/date-renderer
+
+### Some title\n\nSome *paragraph*
+
+
+
+
+
 ## [1.2.3](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-renderer@1.2.2...@sharonzissu/date-renderer@1.2.3) (2025-04-26)
 
 **Note:** Version bump only for package @sharonzissu/date-renderer
