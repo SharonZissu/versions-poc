@@ -12,7 +12,9 @@
     "packages/*"
   ],
   "dependencies": {
-    "conventional-changelog-conventionalcommits": "^8.0.0",
     "lerna": "^8.2.2"
+  },
+  "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^8.0.0"
   }
 }
