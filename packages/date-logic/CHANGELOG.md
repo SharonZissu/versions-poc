@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>3.2.2 (2025-05-01)</small>
+
+* fix: private true ([9a52b95](https://github.com/SharonZissu/versions-poc/commit/9a52b95))
+
+
+
+
+
 ## [3.2.1](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@3.2.0...@sharonzissu/date-logic@3.2.1) (2025-05-01)
 
 

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.2.9 (2025-05-01)</small>
+
+* fix(date-renderer): add ! ([b82db2b](https://github.com/SharonZissu/versions-poc/commit/b82db2b))
+
+
+
+
+
 ## [1.2.8](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-renderer@1.2.7...@sharonzissu/date-renderer@1.2.8) (2025-05-01)
 
 **Note:** Version bump only for package @sharonzissu/date-renderer
