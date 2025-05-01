@@ -8,5 +8,6 @@
       "createRelease": "github"
     }
   },
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "npmClient": "yarn"
 }
