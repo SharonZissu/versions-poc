@@ -1,5 +1,11 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "version": "independent",
-  "changelogPreset": "./check"
+  "changelogPreset": "conventional-changelog-conventionalcommits",
+  "command": {
+    "version": {
+      "conventionalCommits": true,
+      "createRelease": "github"
+    }
+  }
 }
