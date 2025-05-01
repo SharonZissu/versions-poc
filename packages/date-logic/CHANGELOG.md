@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.1](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@3.2.0...@sharonzissu/date-logic@3.2.1) (2025-05-01)
+
+
+### Bug Fixes
+
+* change name ([03c9ad3](https://github.com/SharonZissu/versions-poc/commit/03c9ad3db80cd522829c68cc63624e440f9eab6b))
+
+
+
 ## [3.2.0](https://github.com/SharonZissu/versions-poc/compare/@sharonzissu/date-logic@3.1.1...@sharonzissu/date-logic@3.2.0) (2025-04-30)
 
 
